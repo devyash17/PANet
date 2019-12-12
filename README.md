@@ -46,11 +46,11 @@ python3 tools/extract_pred.py --dataset coco2017 --cfg configs/panet/e2e_panet_R
 
 ### P-R curves
 1. **signage**
-![image](https://user-images.githubusercontent.com/41137582/70707624-8eb94980-1cfe-11ea-8d18-29a2d2eabbc9.png)
+</br>![image](https://user-images.githubusercontent.com/41137582/70707624-8eb94980-1cfe-11ea-8d18-29a2d2eabbc9.png)
 2. **traffic_light**
-![image](https://user-images.githubusercontent.com/41137582/70707700-c7f1b980-1cfe-11ea-9725-0bcccbeb7113.png)
+</br>![image](https://user-images.githubusercontent.com/41137582/70707700-c7f1b980-1cfe-11ea-9725-0bcccbeb7113.png)
 3. **traffic_sign**
-![image](https://user-images.githubusercontent.com/41137582/70707715-d17b2180-1cfe-11ea-9d3a-e17b71f7f8a7.png)
+</br>![image](https://user-images.githubusercontent.com/41137582/70707715-d17b2180-1cfe-11ea-9d3a-e17b71f7f8a7.png)
 
 ### Final mAP (for bbox)
 ![image](https://user-images.githubusercontent.com/41137582/70708036-975e4f80-1cff-11ea-9b95-d91c59f8b767.png)
